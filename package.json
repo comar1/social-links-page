@@ -1,0 +1,27 @@
+{
+  "name": "social-links-profile-main",
+  "version": "1.0.0",
+  "description": "frontend challenge from https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comar1/social-links-page.git"
+  },
+  "keywords": [
+    "frontend"
+  ],
+  "author": "comar1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comar1/social-links-page/issues"
+  },
+  "homepage": "https://github.com/comar1/social-links-page#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
